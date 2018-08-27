@@ -1,1 +1,0 @@
-# https://ruby-doc.org
